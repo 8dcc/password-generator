@@ -19,6 +19,7 @@ You can change the folowing variables:
 
 Possible arguments (will use the specified settings if no arguments):
 * `--help`: Shows the help
+* `--hidden`: Sets `PLAIN_TEXT_PASSWORD` to false.
 * `[user_len]`: The length of the username. If there is no second argument it will automatically set `ONLY_USER` to true.
 * `[pass_len]`: The length of the password.
 
